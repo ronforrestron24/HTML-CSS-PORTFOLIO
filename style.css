@@ -16,6 +16,7 @@ a:link {
 
 a:hover {
     text-decoration: underline;
+    color: rgb(120, 160, 131);
 }
 
 .container-header{

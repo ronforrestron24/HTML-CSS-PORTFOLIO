@@ -9,6 +9,15 @@ li {
     list-style: none;
 }
 
+a:link {
+    color: white;
+    text-decoration: none;   
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .container-header{
     display: flex;
     justify-content: space-evenly;
